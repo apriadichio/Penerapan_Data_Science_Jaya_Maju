@@ -21,4 +21,4 @@ hasil['AttritionProbability'] = probabilitas
 
 # 6. Simpan ke file
 hasil.to_csv('hasil_prediksi.csv', index=False)
-print("✅ Prediksi selesai dan disimpan di hasil_prediksi.csv")
+print("Prediksi selesai dan disimpan di hasil_prediksi.csv")
