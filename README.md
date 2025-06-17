@@ -26,13 +26,21 @@ Untuk membantu mengurangi attrition dan merancang strategi retensi yang efektif,
 
 Sumber data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee
 
-Setup environment:
 1. Menjalankan file ipynb
-   - Import/Unduh seluruh dependensi, packages, libraries yang dibutuhkan (cek ``requairements.txt``)
-   - Jalankan seuluruh isi file ```data_science.ipynb```)
-```
-
-```
+   - Import/Unduh seluruh dependensi, packages, libraries yang dibutuhkan (cek ``requirements.txt``)
+   - Jalankan seluruh isi file ```data_science.ipynb```
+   
+2. Menjalankan Script
+   - buka file python ```predict.py```
+   - pastikan data ```attrition_cleaned.csv``` telah siap digunakan
+   - run file python ```predict.py```
+  
+3. Menjalankan Dashboard
+   1. Install Docker
+   2. Pull docker image untuk metabase
+      ```docker pull metabase/metabase:v0.46.4```
+   3. Jalankan Metabase
+      ``` docker run -p 3000:3000 --name metabase metabase/metabase```
 
 ## Business Dashboard
 
