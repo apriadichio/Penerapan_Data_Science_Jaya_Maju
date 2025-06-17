@@ -2,9 +2,7 @@
 
 ## Business Understanding
 
-Perusahaan Jaya Maju adalah perusahaan yang mengalami tingkat pergantian karyawan (attrition) yang cukup tinggi. 
-Hal ini menyebabkan ketidakstabilan dalam tim dan peningkatan biaya rekrutmen serta pelatihan. 
-Untuk membantu mengurangi attrition dan merancang strategi retensi yang efektif, dibutuhkan sebuah sistem prediksi untuk mengidentifikasi karyawan yang berisiko keluar dari perusahaan.
+Perusahaan Jaya Maju merupakan perusahaan multinasional dengan lebih dari 1.000 karyawan yang tersebar di berbagai daerah. Meskipun skalanya sudah besar, perusahaan ini menghadapi tantangan serius berupa tingkat attrition (keluar kerja) karyawan yang tinggi, yaitu lebih dari 10% dari total karyawan. Hal ini berdampak negatif terhadap biaya operasional, produktivitas, serta stabilitas tim.
 
 ### Permasalahan Bisnis
 
@@ -45,6 +43,11 @@ Sumber data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/emplo
       ```
        docker run -p 3000:3000 --name metabase metabase/metabase
       ```
+   - Login ke Metabase menggunakan username dan password berikut :
+     ```
+     username: root@mail.com
+     password: root123
+     ```
 
 ## Business Dashboard
 
