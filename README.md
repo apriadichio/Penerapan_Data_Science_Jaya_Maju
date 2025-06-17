@@ -36,11 +36,15 @@ Sumber data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/emplo
    - run file python ```predict.py```
   
 3. Menjalankan Dashboard
-   1. Install Docker
-   2. Pull docker image untuk metabase
-      ```docker pull metabase/metabase:v0.46.4```
-   3. Jalankan Metabase
-      ``` docker run -p 3000:3000 --name metabase metabase/metabase```
+   - Install Docker
+   - Pull docker image untuk metabase
+     ```
+     docker pull metabase/metabase:v0.46.4
+     ```
+   - Jalankan Metabase
+      ```
+       docker run -p 3000:3000 --name metabase metabase/metabase
+      ```
 
 ## Business Dashboard
 
