@@ -28,7 +28,8 @@ Sumber data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/emplo
 
 Setup environment:
 1. Menjalankan file ipynb
-   - Pastikan dependensi, packages, libraries yang dibutuhkan
+   - Import/Unduh seluruh dependensi, packages, libraries yang dibutuhkan (cek ``requairements.txt``)
+   - Jalankan seuluruh isi file ```data_science.ipynb```)
 ```
 
 ```
