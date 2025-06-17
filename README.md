@@ -6,9 +6,9 @@ Perusahaan Jaya Maju merupakan perusahaan multinasional dengan lebih dari 1.000 
 
 ### Permasalahan Bisnis
 
-- Mencari faktor-faktor utama yang mempengaruhi permasalahan attrition ini.
-- Mengidentifikasi karyawan yang berpotensi keluar (attrition).
-- Menyediakan dashboard serta alat prediktif yang dapat membantu pengambilan keputusan terkait permasalahan Attrition ini.
+- Tingginya tingkat attrition karyawan (>10%).
+- Tidak adanya sistem prediktif untuk memantau dan mengantisipasi risiko karyawan keluar.
+- Kurangnya insight dari data internal untuk membantu mendeteksi attrition dan melakukan pengambilan keputusan oleh HR.
 
 ### Cakupan Proyek
 
