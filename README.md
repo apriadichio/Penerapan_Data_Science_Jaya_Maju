@@ -48,7 +48,14 @@ Sumber data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/emplo
 
 ## Business Dashboard
 
-Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga link untuk mengakses dashboard tersebut.
+Dashboard ini dibangun menggunakan Metabase dengan layanan database dari Supabase. Dashboard ini memberikan insight visual kepada tim HR dalam memantau risiko attrition berdasarkan data aktual dan hasil prediksi dari model machine learning.
+
+### Komponen Utama Dashboard
+
+KPI Summary
+- Total Karyawan: 1.058
+- Employee at Risk (hasil prediksi model): 340 orang
+- Total Attrition Aktual: 179 orang
 
 ## Conclusion
 
