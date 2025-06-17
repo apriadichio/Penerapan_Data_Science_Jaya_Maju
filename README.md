@@ -27,7 +27,8 @@ Untuk membantu mengurangi attrition dan merancang strategi retensi yang efektif,
 Sumber data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee
 
 Setup environment:
-
+1. Menjalankan file ipynb
+   - Pastikan dependensi, packages, libraries yang dibutuhkan
 ```
 
 ```
